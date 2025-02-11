@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .first-part{
     background-color: #1F2937;
 }
@@ -138,10 +143,14 @@ a:link{
 .ad-block{
     background-color: #3882F6;
     border-radius: 10px;
-    margin: 50px 100px;
+    margin: 75px 100px;
     padding: 30px;
     display: flex;
     justify-content: space-between;
+}
+
+.ad{
+    margin: auto;
 }
 
 .first-line{
@@ -159,14 +168,21 @@ a:link{
 }
 
 .second-button{
-    display: flex;
-    justify-content: flex-end;
-    text-align: center;
-    color: #3882F6;
-    border:#F9FAF8;
+    color: #F9FAF8;
+    border-color: #F9FAF8;
     border-radius: 6px;
-    background-color: #F9FAF8;
-    padding: 20px;
-    
-    
+    padding: 5px 20px;
+    background-color: #3882F6;
+    margin: auto;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.copyright{
+    color: #F9FAF8;
 }
