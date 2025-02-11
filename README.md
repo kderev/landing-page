@@ -25,4 +25,4 @@ La landing page contient les sections suivantes :
 
 ## Crédits
 
-Projet réalisé par Kiki
+Projet réalisé par kderev
