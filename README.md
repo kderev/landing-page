@@ -18,6 +18,11 @@ La landing page contient les sections suivantes :
 *   HTML
 *   CSS
 
+## Notes
+
+*   Ce projet contient beaucoup de problèmes, et ne seront pas corrigés. 
+
+
 ## Crédits
 
 Projet réalisé par Kiki
